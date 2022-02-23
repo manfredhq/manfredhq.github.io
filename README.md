@@ -1,6 +1,6 @@
 ## Welcome to Hugo QUITTON's website
 
-![Thor image](https://fr.web.img6.acsta.net/pictures/210/407/21040735_20130916181657638.jpg)
+![unknown image](Sans titre.png)
 
 You can use the [editor on GitHub](https://github.com/manfredhq/manfredhq.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
