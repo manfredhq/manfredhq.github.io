@@ -1,6 +1,6 @@
 ## Welcome to Hugo QUITTON's website
 
-![unknown image](manfredhq.github.io/Sans titre.png)
+![unknown image](docs/assets/random.png)
 
 You can use the [editor on GitHub](https://github.com/manfredhq/manfredhq.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
