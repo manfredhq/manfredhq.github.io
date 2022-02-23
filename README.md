@@ -1,5 +1,7 @@
 ## Welcome to Hugo QUITTON's website
 
+![Thor image](https://fr.web.img6.acsta.net/pictures/210/407/21040735_20130916181657638.jpg)
+
 You can use the [editor on GitHub](https://github.com/manfredhq/manfredhq.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
